@@ -1,0 +1,4 @@
+terraform init
+terrafor plan
+terraform apply
+terraform destroy
